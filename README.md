@@ -16,7 +16,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ajay-kathrotiya-5aa200188/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/ajay-kathrotiya-5aa200188/" height="40" width="40" /></a> &nbsp;
-
 <a href="https://www.instagram.com/ajay_kathrotiya_18/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/ajay_kathrotiya_18/" height="40" width="40" /></a> &nbsp;
 <a href="https://leetcode.com/u/ajaykathrotiya1819/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ajaykathrotiya1819/" height="40" width="40" /></a> &nbsp;
 
