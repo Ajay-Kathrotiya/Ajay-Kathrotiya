@@ -53,6 +53,35 @@
          alt="vscode" width="40" height="40"/>
   </a>
 
+   <a href="https://www.getdbt.com/" target="blank">
+    <img style="margin-bottom: 10px" align="center"
+         src="https://cdn.worldvectorlogo.com/logos/dbt-labs.svg"
+         alt="dbt" width="40" height="40"/>
+  </a> &nbsp;
+
+
+  <!-- dbt -->
+  <a href="https://www.getdbt.com/" target="blank">
+    <img style="margin-bottom: 10px" align="center"
+         src="https://cdn.worldvectorlogo.com/logos/dbt-labs.svg"
+         alt="dbt" width="40" height="40"/>
+  </a> &nbsp;
+
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="blank">
+    <img style="margin-bottom: 10px" align="center"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+         alt="aws" width="40" height="40"/>
+  </a> &nbsp;
+
+  <!-- Apache Spark -->
+  <a href="https://spark.apache.org/" target="blank">
+    <img style="margin-bottom: 10px" align="center"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache-spark/apache-spark-original.svg"
+         alt="spark" width="40" height="40"/>
+  </a>
+
+  
   
 </p>
 
