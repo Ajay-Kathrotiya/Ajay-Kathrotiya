@@ -16,6 +16,10 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ajay-kathrotiya-5aa200188/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/ajay-kathrotiya-5aa200188/" height="40" width="40" /></a> &nbsp;
+<a href="https://www.mysql.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> &nbsp;
+<a href="https://git-scm.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
+<a href="https://code.visualstudio.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="git" width="40" height="40"/></a> &nbsp;
+
 <a href="https://www.instagram.com/ajay_kathrotiya_18/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=instagram" alt="https://www.instagram.com/ajay_kathrotiya_18/" height="40" width="40" /></a> &nbsp;
 <a href="https://leetcode.com/u/ajaykathrotiya1819/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ajaykathrotiya1819/" height="40" width="40" /></a> &nbsp;
 
@@ -23,26 +27,6 @@
 
 ## 💻 Tech Stack:
 
-<p align="left">
-<a href="https://www.python.org/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
-</a> &nbsp;
 
-<a href="https://www.postgresql.org/docs/current/sql.html" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=postgres" alt="sql" width="40" height="40"/>
-</a> &nbsp;
-
-
-
-
-
-<a href="https://github.com/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
-</a> &nbsp;
-
-<a href="https://code.visualstudio.com/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/>
-</a>
-</p>
 
 
