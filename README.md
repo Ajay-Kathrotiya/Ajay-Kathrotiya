@@ -32,30 +32,9 @@
   <img align="center" src="https://skillicons.dev/icons?i=postgres" alt="sql" width="40" height="40"/>
 </a> &nbsp;
 
-<!-- AWS S3 -->
-<a href="https://aws.amazon.com/s3/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" width="40" height="40"/>
-</a> &nbsp;
 
-<!-- AWS Glue -->
-<a href="https://aws.amazon.com/glue/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-glue.svg" width="40" height="40"/>
-</a> &nbsp;
 
-<!-- AWS Redshift -->
-<a href="https://aws.amazon.com/redshift/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-redshift.svg" width="40" height="40"/>
-</a> &nbsp;
 
-<!-- Snowflake -->
-<a href="https://www.snowflake.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/snowflake-2.svg" width="40" height="40"/>
-</a> &nbsp;
-
-<!-- Databricks -->
-<a href="https://www.databricks.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="40" height="40"/>
-</a> &nbsp;
 
 <a href="https://github.com/" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
