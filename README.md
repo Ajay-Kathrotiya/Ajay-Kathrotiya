@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Ajay-Kathrotiya/Ajay-Kathrotiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi I'm Ajay Kathrotiya</h1>
+<h3 align="center">A Passionate AWS Data Engineer </h3>
+
+
+## 💫 About Me:
+
+🌱 I’m an AWS Data Engineer designing and building scalable, secure, and efficient data pipelines on the cloud. <br>
+📝 I share my learnings, hands-on experiences, and best practices around AWS, data engineering, and analytics through articles on Hashnode. <br>
+👨‍💻 You can explore my projects, cloud architectures, and real-world implementations. <br>
+📫 Feel free to connect with me on my social media profiles — always happy to collaborate, learn, and talk data & cloud! ☁️📊
+
+## 🌐 Connect With Me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ajay-kathrotiya-5aa200188/" target="blank"><img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/ajay-kathrotiya-5aa200188/" height="40" width="40" /></a> &nbsp;
+</a> &nbsp;
+
+## 💻 Tech Stack:
