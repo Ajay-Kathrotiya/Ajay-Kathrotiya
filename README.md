@@ -29,8 +29,7 @@
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
          alt="python" width="40" height="40"/>
   </a> &nbsp;
-
-  <a href="https://www.postgresql.org/" target="blank">
+ <a href="https://www.postgresql.org/" target="blank">
     <img style="margin-bottom: 10px" align="center"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
          alt="postgresql" width="40" height="40"/>
@@ -53,5 +52,7 @@
          src="https://skillicons.dev/icons?i=vscode&theme=light"
          alt="vscode" width="40" height="40"/>
   </a>
+
+  
 </p>
 
