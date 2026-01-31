@@ -25,6 +25,31 @@
 ## 💻 Tech Stack:
 
 <p align="left">
+<!-- Python -->
+<a href="https://www.python.org/" target="blank">
+  <img style="margin-bottom: 10px" align="center"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="python" width="40" height="40"/>
+</a> &nbsp;
+
+<a href="https://www.postgresql.org/" target="blank">
+  <img style="margin-bottom: 10px" align="center"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+       alt="postgresql" width="40" height="40"/>
+</a> &nbsp;
+
+<a href="https://aws.amazon.com/" target="blank">
+  <img style="margin-bottom: 10px" align="center"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+       alt="aws" width="40" height="40"/>
+</a> &nbsp;
+
+<a href="https://spark.apache.org/" target="blank">
+  <img style="margin-bottom: 10px" align="center"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache-spark/apache-spark-original.svg"
+       alt="apache spark" width="40" height="40"/>
+</a> &nbsp;
+
 <a href="https://www.mysql.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> &nbsp;
 <a href="https://git-scm.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> &nbsp;
 <a href="https://code.visualstudio.com/" target="blank" > <img style="margin-bottom: 10px" align="center" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="git" width="40" height="40"/></a> &nbsp;
