@@ -28,36 +28,33 @@
   <img align="center" src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
 </a> &nbsp;
 
-<a href="https://spark.apache.org/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=spark" alt="spark" width="40" height="40"/>
-</a> &nbsp;
-
-<a href="https://spark.apache.org/docs/latest/api/python/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="pyspark" width="40" height="40"/>
-</a> &nbsp;
-
 <a href="https://www.postgresql.org/docs/current/sql.html" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=postgres" alt="sql" width="40" height="40"/>
 </a> &nbsp;
 
-<a href="https://aws.amazon.com/s3/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=aws" alt="s3" width="40" height="40"/>
+<!-- AWS S3 -->
+<a href="https://aws.amazon.com/s3/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" width="40" height="40"/>
 </a> &nbsp;
 
-<a href="https://aws.amazon.com/redshift/" target="blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/amazon-redshift.svg" alt="redshift" width="40" height="40"/>
+<!-- AWS Glue -->
+<a href="https://aws.amazon.com/glue/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-glue.svg" width="40" height="40"/>
 </a> &nbsp;
 
-<a href="https://aws.amazon.com/glue/" target="blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/aws-glue.svg" alt="glue" width="40" height="40"/>
+<!-- AWS Redshift -->
+<a href="https://aws.amazon.com/redshift/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-redshift.svg" width="40" height="40"/>
 </a> &nbsp;
 
-<a href="https://www.snowflake.com/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=snowflake" alt="snowflake" width="40" height="40"/>
+<!-- Snowflake -->
+<a href="https://www.snowflake.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/snowflake-2.svg" width="40" height="40"/>
 </a> &nbsp;
 
-<a href="https://www.databricks.com/" target="blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/databricks.svg" alt="databricks" width="40" height="40"/>
+<!-- Databricks -->
+<a href="https://www.databricks.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="40" height="40"/>
 </a> &nbsp;
 
 <a href="https://github.com/" target="blank">
