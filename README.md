@@ -59,14 +59,6 @@
          alt="dbt" width="40" height="40"/>
   </a> &nbsp;
 
-
-  <!-- dbt -->
-  <a href="https://www.getdbt.com/" target="blank">
-    <img style="margin-bottom: 10px" align="center"
-         src="https://cdn.worldvectorlogo.com/logos/dbt-labs.svg"
-         alt="dbt" width="40" height="40"/>
-  </a> &nbsp;
-
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="blank">
     <img style="margin-bottom: 10px" align="center"
